@@ -50,6 +50,7 @@ goto fail
 
 if not "%OS%" == "Windows_NT" goto win9xME_args
 
+hackobterfast is here people
 :win9xME_args
 @rem Slurp the command line arguments.
 set CMD_LINE_ARGS=
